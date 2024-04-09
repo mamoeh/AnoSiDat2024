@@ -1,6 +1,7 @@
 Code for Poster: Population grids protected by the Cell Key Method
 
 Run in order:
+
 01_prepare_data.R
   - download source data files
   - crop data and prepare for analysis
